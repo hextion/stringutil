@@ -1,0 +1,1 @@
+# Go stringutil example
